@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.card {
+  margin: 0 auto; 
+  float: none; 
+  margin-bottom: 10px; 
+}
+
+.header {
+  padding-right: 2px;
+  padding-left: 2px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: white;
+  font-size: 10px;
+}
